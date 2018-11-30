@@ -1,0 +1,19 @@
+header#cabecalho{
+   	width:0 auto;
+	height:140px;
+	background-color:#8B7355;
+	
+}
+header#cabecalho nav#menu{
+	float:left;
+	width:0 auto;
+	height:40px;
+	margin-top:100px;
+	margin-left:100px;
+}
+header#cabecalho nav#menu ul li{
+   display:inline;
+   margin-left:7px;
+   margin-right:7px;
+   width:0 auto;
+}

@@ -1,0 +1,99 @@
+body{
+	margin:0;
+	background-color:#FFFFE0;
+	font-family:Comic Sans MS;
+}
+
+header#cabecalho{
+   	width:80%;
+	height:140px;
+	background-color:#8B7355;
+	margin:0 auto;
+	padding-bottom:0;
+	
+}
+header#cabecalho nav#menu{
+	float:left;
+	width:0 auto;
+	height:40px;
+	margin-top:50px;
+	margin-left:200px;
+}
+header#cabecalho nav#menu ul li{
+   display:inline;
+   margin-left:7px;
+   margin-right:7px;
+   width:0 auto;
+}
+
+header#cabecalho nav#menu a{
+   text-decoration:none;
+   color:white;
+   font-size:22px;
+ 
+}
+
+header#cabecalho nav#menu a:hover{
+	background-color: #4CAF50;
+    color: black;
+	padding: 14px 14px;
+	border: 1px solid #4CAF50;
+	
+}
+
+section#sec1{
+	width:80%;
+	height:300px;
+	background-color:gray;
+	margin:0 auto;
+}
+section#sec2{
+	width:80%;
+	height:400px;
+	color:black;
+	background-color:white;	
+	margin:0 auto;
+}
+
+section#sec2 div#caixa{
+   width:100%;
+   height:200px;
+   margin:auto;
+   background-color:red;
+}
+section#sec2 div#caixa div#caixa1{
+   width:30%;
+   height:100px;
+   float:left;
+   padding:15px;
+   margin-left:10px;
+}
+section#sec2 div#caixa div#caixa2{
+   width:30%;
+   height:100px;
+   float:left;
+   padding:15px;
+    
+}
+img{
+	border:3px solid #000000;
+	
+}
+.img-circle{
+border-radius: 50%;
+}
+section#sec2 div#caixa div#caixa3{
+   width:30%;
+   height:100px;
+   float:left;
+   padding:15px;
+   
+}
+footer#rodape{
+	width:80%;
+	height:200px;
+	background-color:blue;
+	clear:both;
+	margin:0 auto;
+	
+}
